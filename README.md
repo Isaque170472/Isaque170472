@@ -64,14 +64,6 @@ Atualmente, sigo construindo minha jornada como desenvolvedor, aprimorando minha
 
 ---
 
-## 📈 GitHub Stats
-
-![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque170472&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque170472&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivos
 
 🚀 Evoluir constantemente como desenvolvedor  
